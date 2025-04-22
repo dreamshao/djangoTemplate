@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30ee00ce-bca4-47c6-9241-a9c0c1a6c5b2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2tzFFTZ0dtARA5wYuldPQDOkkd0" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/orgs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\15424\Desktop\features\核心编程学习\谷粒教育\GuLiEdu\orgs" />
+      <recent name="C:\Users\15424\Desktop\features\核心编程学习\谷粒教育\GuLiEdu\operations" />
+      <recent name="C:\Users\15424\Desktop\features\核心编程学习\谷粒教育\GuLiEdu\courses" />
+      <recent name="C:\Users\15424\Desktop\features\核心编程学习\谷粒教育\GuLiEdu\users" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\15424\Desktop\features\核心编程学习\谷粒教育\GuLiEdu\templates" />
+      <recent name="C:\Users\15424\Desktop\features\核心编程学习\谷粒教育\GuLiEdu\extra_apps" />
+      <recent name="C:\Users\15424\Desktop\features\核心编程学习\谷粒教育\GuLiEdu\apps" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.database">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GuLiEdu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="database" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GuLiEdu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../教学/工具" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../教学/工具/database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GuLiEdu" type="Python.DjangoServer" factoryName="Django server">
+      <module name="GuLiEdu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.database" />
+        <item itemvalue="Python.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30ee00ce-bca4-47c6-9241-a9c0c1a6c5b2" name="Default Changelist" comment="" />
+      <created>1741346892607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741346892607</updated>
+      <workItem from="1741346894152" duration="1751000" />
+      <workItem from="1741348690573" duration="917000" />
+      <workItem from="1741682736538" duration="1736000" />
+      <workItem from="1741684516999" duration="1770000" />
+      <workItem from="1741686339910" duration="1456000" />
+      <workItem from="1741691025470" duration="1779000" />
+      <workItem from="1741692849519" duration="858000" />
+      <workItem from="1741694376043" duration="1766000" />
+      <workItem from="1741696232453" duration="83000" />
+      <workItem from="1741778737510" duration="1765000" />
+      <workItem from="1741780579721" duration="1625000" />
+      <workItem from="1741782456966" duration="248000" />
+      <workItem from="1741854067725" duration="1732000" />
+      <workItem from="1741855888951" duration="1834000" />
+      <workItem from="1741858113214" duration="1764000" />
+      <workItem from="1741859933020" duration="754000" />
+      <workItem from="1741863751721" duration="1773000" />
+      <workItem from="1741865580352" duration="1767000" />
+      <workItem from="1741867399658" duration="1772000" />
+      <workItem from="1741869226479" duration="204000" />
+      <workItem from="1741938389619" duration="1749000" />
+      <workItem from="1741940508746" duration="1777000" />
+      <workItem from="1741942348440" duration="1769000" />
+      <workItem from="1741944172743" duration="2244000" />
+      <workItem from="1742297199569" duration="1763000" />
+      <workItem from="1742299010521" duration="1420000" />
+      <workItem from="1742300827655" duration="640000" />
+      <workItem from="1742382384540" duration="1705000" />
+      <workItem from="1742384148080" duration="2276000" />
+      <workItem from="1742386596995" duration="862000" />
+      <workItem from="1742469292622" duration="1444000" />
+      <workItem from="1742470786926" duration="2132000" />
+      <workItem from="1742472984986" duration="712000" />
+      <workItem from="1742556035907" duration="1752000" />
+      <workItem from="1742557837656" duration="1455000" />
+      <workItem from="1742902556338" duration="1639000" />
+      <workItem from="1742904347986" duration="1650000" />
+      <workItem from="1742987173533" duration="1770000" />
+      <workItem from="1742989016433" duration="1770000" />
+      <workItem from="1742990836847" duration="1100000" />
+      <workItem from="1743074089346" duration="1792000" />
+      <workItem from="1743075930054" duration="1834000" />
+      <workItem from="1743077844137" duration="546000" />
+      <workItem from="1743505466897" duration="1769000" />
+      <workItem from="1743507308186" duration="1747000" />
+      <workItem from="1743510140314" duration="805000" />
+      <workItem from="1743592516038" duration="1598000" />
+      <workItem from="1743594434849" duration="1533000" />
+      <workItem from="1743596760243" duration="541000" />
+      <workItem from="1743647810106" duration="113000" />
+      <workItem from="1743651065485" duration="1766000" />
+      <workItem from="1743652892377" duration="555000" />
+      <workItem from="1743678928093" duration="2259000" />
+      <workItem from="1743997251609" duration="53000" />
+      <workItem from="1744110206480" duration="1750000" />
+      <workItem from="1744112008840" duration="1783000" />
+      <workItem from="1744113839256" duration="708000" />
+      <workItem from="1744165495315" duration="36000" />
+      <workItem from="1744196967344" duration="1806000" />
+      <workItem from="1744198859055" duration="1933000" />
+      <workItem from="1744200844634" duration="697000" />
+      <workItem from="1744283217008" duration="1552000" />
+      <workItem from="1744285045294" duration="1775000" />
+      <workItem from="1744286863404" duration="1395000" />
+      <workItem from="1744716064034" duration="1447000" />
+      <workItem from="1744717609611" duration="1613000" />
+      <workItem from="1744773034876" duration="1753000" />
+      <workItem from="1744774860251" duration="1770000" />
+      <workItem from="1744776683113" duration="643000" />
+      <workItem from="1744778304975" duration="1697000" />
+      <workItem from="1744780155318" duration="1775000" />
+      <workItem from="1744782212148" duration="1773000" />
+      <workItem from="1744784024789" duration="1777000" />
+      <workItem from="1744785969367" duration="1778000" />
+      <workItem from="1744787783355" duration="1781000" />
+      <workItem from="1744789596737" duration="1734000" />
+      <workItem from="1744791416132" duration="1795000" />
+      <workItem from="1744793369487" duration="1776000" />
+      <workItem from="1744795183001" duration="1855000" />
+      <workItem from="1744797625038" duration="650000" />
+      <workItem from="1744799540639" duration="1788000" />
+      <workItem from="1744801385527" duration="1237000" />
+      <workItem from="1744803199958" duration="1047000" />
+      <workItem from="1744805705933" duration="1034000" />
+      <workItem from="1744870350493" duration="1761000" />
+      <workItem from="1744872156816" duration="1108000" />
+      <workItem from="1744874866840" duration="1579000" />
+      <workItem from="1744877410167" duration="749000" />
+      <workItem from="1744886311041" duration="673000" />
+      <workItem from="1744965915546" duration="1762000" />
+      <workItem from="1744967724292" duration="1422000" />
+      <workItem from="1744969773416" duration="789000" />
+      <workItem from="1744976337620" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GuLiEdu$1.coverage" NAME="1 Coverage Results" MODIFIED="1743679668948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../.." />
+    <SUITE FILE_PATH="coverage/GuLiEdu$database.coverage" NAME="database Coverage Results" MODIFIED="1744773609429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../教学/工具" />
+  </component>
+</project>

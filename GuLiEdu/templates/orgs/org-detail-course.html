@@ -1,0 +1,58 @@
+{% extends 'orgs/org-detail-base.html' %}
+
+{% block title %}机构课程{% endblock %}
+
+{% block breach %}机构课程{% endblock %}
+
+{% block right %}
+    <div class="right companycenter layout" >
+        <div class="head">
+            <h1>机构课程</h1>
+        </div>
+        <div class="brief group_list">
+            {# {% for course in org.courseinfo_set.all %} #}
+            {% for course in pages %}
+                <div class="module1_5 box">
+                    <a class="comp-img-box" href="{% url 'courses:course_detail' course.id %}">
+                        <img width="214" height="195" src="{{ MEDIA_URL }}{{ course.image }}"/>
+                    </a>
+                    <div class="des">
+                        <a href="{% url 'courses:course_detail' course.id %}"><h2>{{ course.name }}</h2></a>
+                        <span class="fl">课时：<i class="key">{{ course.study_time }}</i></span>
+                        <span class="fr">学习人数：{{ course.study_num }}</span>
+                    </div>
+                    <div class="bottom">
+                        <span class="fl">{{ course.orginfo }}</span>
+                        <span class="star fr  notlogin
+                            " data-favid="13" data-fav-type="4">
+                            {{ course.love_num }}
+                        </span>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        {# 机构分页显示 #}
+        <div class="pageturn">
+            <ul class="pagelist">
+                {# 分页显示 #}
+                {# 是否有上一页,有就获取上一页的页码值 #}
+                {% if pages.has_previous %}
+                    <li class="long"><a href="?page_num={{ pages.previous_page_number }}">上一页</a></li>
+                {% endif %}
+
+                {# 所有页码值 #}
+                {% for num in pages.paginator.page_range %}
+                    {# 选中当前页码进行标识 #}
+                    <li {% if num == pages.number %} class="active" {% endif %} ><a href="?page_num={{ num }}">{{ num }}</a></li>
+                {% endfor %}
+
+                {# 是否有下一页,有就获取下一页的页码值 #}
+                {% if pages.has_next %}
+                    <li class="long"><a href="?page_num={{ pages.next_page_number }}">下一页</a></li>
+                {% endif %}
+
+            </ul>
+        </div>
+
+    </div>
+{% endblock %}
